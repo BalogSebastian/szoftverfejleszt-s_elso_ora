@@ -1,0 +1,2 @@
+# szoftverfejleszt-s_elso_ora
+Elso_Ora_Szoftverfejlesztes
